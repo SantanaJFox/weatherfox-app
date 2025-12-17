@@ -1,4 +1,4 @@
-const CACHE_NAME = 'weather-app-cache-v1';
+const CACHE_NAME = 'weatherfox-app-cache-v1';
 const APP_SHELL = [
   '/',
   '/index.html',
