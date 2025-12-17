@@ -1,5 +1,5 @@
 {
-  "name": "weather-app-functions",
+  "name": "weatherfox-app-functions",
   "private": true,
   "main": "index.js",
   "type": "commonjs",
