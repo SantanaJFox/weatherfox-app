@@ -5,13 +5,13 @@ import { getFunctions, connectFunctionsEmulator } from 'firebase/functions'
 
 // Firebase web config
 const firebaseConfig = {
-  apiKey: "AIzaSyDoieILTM1Q2qWzHynHnmFqTPDOwF88wrU",
-  authDomain: "weather-app-push-569d4.firebaseapp.com",
-  projectId: "weather-app-push-569d4",
-  storageBucket: "weather-app-push-569d4.firebasestorage.app",
-  messagingSenderId: "897750597772",
-  appId: "1:897750597772:web:fe378d868d447cd027bba9",
-  measurementId: "G-G5M8C66HPG"
+  apiKey: "AIzaSyC1CRYodya0ud-XohNq88FPRFx5oOS5pco",
+  authDomain: "weatherfox-app-push.firebaseapp.com",
+  projectId: "weatherfox-app-push",
+  storageBucket: "weatherfox-app-push.firebasestorage.app",
+  messagingSenderId: "510155737938",
+  appId: "1:510155737938:web:84ea7798d9a6c516d5488b",
+  measurementId: "G-3TJP2LT7B8"
 };
 
 // Provide your Web Push certificates key from Firebase Console → Cloud Messaging
