@@ -1,0 +1,26 @@
+{
+  "name": "Weather App",
+  "short_name": "Weather",
+  "description": "Check current weather by city.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#e2d4ff",
+  "theme_color": "#6b4eff",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/vite.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
+
+
